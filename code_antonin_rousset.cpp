@@ -52,5 +52,5 @@ int main()
     vote();
     return 0;
 }
-// g++ -o votants1.txt antonin.cpp
-// ./votants1.txt <antonin.cpp> tdp.txt
+// g++ -o votants1.txt code_antonin_rousset.cpp
+// ./votants1.txt <code_antonin_rousset.cpp> tdp.txt
