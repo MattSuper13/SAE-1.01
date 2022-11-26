@@ -1,2 +1,0 @@
-# SAE-1.01
-SAE 1.01 ATRKHOV Alexis CRESPIN Alexandre KHADRAOUI Sabri ROUSSET Antonin SCIACCA Matteo
