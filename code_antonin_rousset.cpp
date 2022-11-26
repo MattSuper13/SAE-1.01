@@ -53,4 +53,4 @@ int main()
     return 0;
 }
 // g++ -o votants1.txt code_antonin_rousset.cpp
-// ./votants1.txt <code_antonin_rousset.cpp> tdp.txt
+// ./votants1.txt <code_antonin_rousset.cpp> tdp1.txt
