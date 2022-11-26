@@ -55,5 +55,5 @@ int main ()
     voteCumulatif ();
     return 0;
 }
-// g++ -o votants4.txt code_alexis_atrokhov.cpp
-// ./votants4.txt <code_alexis_atrokhov.cpp> tdp4.txt
+// g++ -o votants_alexis.txt code_alexis_atrokhov.cpp
+// ./votants_alexis.txt <code_alexis_atrokhov.cpp> tdp4.txt
